@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 136,
-    "timeDay": 71,
-    "timeWeek": 96,
+    "timeDay": 87,
+    "timeWeek": 99,
     "timeMonth": 98,
     "timeYear": 140,
     "dailyMinutesDown": {
@@ -33,10 +33,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 191,
-    "timeDay": 703,
-    "timeWeek": 210,
+    "timeDay": 213,
+    "timeWeek": 204,
     "timeMonth": 179,
-    "timeYear": 190,
+    "timeYear": 189,
     "dailyMinutesDown": {
       "2026-03-18": 56
     }
@@ -47,16 +47,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.97%",
     "time": 307,
-    "timeDay": 452,
-    "timeWeek": 243,
-    "timeMonth": 306,
-    "timeYear": 303,
+    "timeDay": 308,
+    "timeWeek": 271,
+    "timeMonth": 311,
+    "timeYear": 302,
     "dailyMinutesDown": {
       "2026-04-10": 69,
       "2026-04-07": 82
